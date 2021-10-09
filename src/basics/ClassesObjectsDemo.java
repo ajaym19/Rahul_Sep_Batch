@@ -39,6 +39,20 @@ public class ClassesObjectsDemo {
 		 * 
 		 * Constructors
 		 * Types of variables and method
+		 * 
+		 * 
+		 * 45.90 $ per hour
+		 * 
+		 * int 45.90 * 8 = 367.2 daily
+		 * 367.2 * 30 = 11016 monthly
+		 * 
+		 * int 45 *8= 360 daily
+		 * 360*30 = 10800
+		 * 
+		 * double
+		 * float : 45.5754857657546$
+		 * 45.655
+		 * 
 		 */
 	}
 }
